@@ -39,8 +39,6 @@ Understanding those relationships makes troubleshooting much easier than simply 
 
 This site is my attempt to document those discoveries as I encounter them.
 
----
-
 ## Disclaimer
 
 These are personal technical notes based on my own research, testing, and experience.
