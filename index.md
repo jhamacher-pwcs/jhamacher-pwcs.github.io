@@ -1,3 +1,8 @@
+---
+layout: home
+title: Technical Notes
+---
+
 # Technical Notes
 
 Welcome to my technical notes.
