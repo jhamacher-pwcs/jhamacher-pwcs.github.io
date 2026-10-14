@@ -1,0 +1,85 @@
+# Site settings
+title: Technical Notes
+description: >-
+  Technical notes, troubleshooting, scripts, and lessons learned
+  from working with Microsoft 365, Exchange Online, PowerShell,
+  Active Directory, networking, and IT systems.
+
+author: Your Name
+
+# GitHub Pages URL
+# Example: https://username.github.io
+url: "https://jhamacher-pwcs.github.io"
+
+# Leave blank if this repository is YOURUSERNAME.github.io
+baseurl: ""
+
+# If using a project repository instead, such as:
+# https://YOURUSERNAME.github.io/technical-notes/
+#
+# use:
+# baseurl: "/technical-notes"
+
+
+# ------------------------------------------------------------
+# Theme
+# ------------------------------------------------------------
+
+theme: minima
+
+
+# ------------------------------------------------------------
+# Minima settings
+# ------------------------------------------------------------
+
+minima:
+  skin: auto
+
+  social_links:
+    - platform: github
+      user_url: "https://github.com/jhamacher-pwcs"
+
+
+# ------------------------------------------------------------
+# Navigation
+# ------------------------------------------------------------
+
+header_pages:
+  - about.md
+
+
+# ------------------------------------------------------------
+# Markdown
+# ------------------------------------------------------------
+
+markdown: kramdown
+
+kramdown:
+  syntax_highlighter: rouge
+
+
+# ------------------------------------------------------------
+# Permalinks
+# ------------------------------------------------------------
+
+permalink: /:categories/:year/:month/:day/:title/
+
+
+# ------------------------------------------------------------
+# Plugins supported by GitHub Pages
+# ------------------------------------------------------------
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
+# ------------------------------------------------------------
+# Files/folders Jekyll should ignore
+# ------------------------------------------------------------
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
