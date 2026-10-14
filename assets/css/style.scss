@@ -1,0 +1,88 @@
+---
+---
+
+@import "minima";
+
+/* Dark mode */
+
+body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+}
+
+.site-header {
+  background-color: #161b22;
+  border-top-color: #30363d;
+  border-bottom-color: #30363d;
+}
+
+.site-title,
+.site-title:visited {
+  color: #f0f6fc;
+}
+
+.site-nav .page-link {
+  color: #c9d1d9;
+}
+
+a,
+a:visited {
+  color: #58a6ff;
+}
+
+a:hover {
+  color: #79c0ff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #f0f6fc;
+}
+
+pre,
+code {
+  background-color: #161b22;
+  border-color: #30363d;
+  color: #e6edf3;
+}
+
+pre {
+  padding: 12px;
+  overflow-x: auto;
+}
+
+blockquote {
+  color: #8b949e;
+  border-left-color: #30363d;
+}
+
+.site-footer {
+  background-color: #161b22;
+  border-top-color: #30363d;
+  color: #8b949e;
+}
+
+.footer-col-wrapper {
+  color: #8b949e;
+}
+
+table {
+  color: #c9d1d9;
+}
+
+table th,
+table td {
+  border-color: #30363d;
+}
+
+table tr:nth-child(even) {
+  background-color: #161b22;
+}
+
+hr {
+  border-color: #30363d;
+}
