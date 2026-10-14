@@ -46,6 +46,7 @@ minima:
 
 header_pages:
   - about.md
+  - scripts/index.md
 
 
 # ------------------------------------------------------------
