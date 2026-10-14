@@ -3,8 +3,6 @@ layout: home
 title: Technical Notes
 ---
 
-# Technical Notes
-
 Welcome to my technical notes.
 
 This site is a collection of things I've learned while working with Microsoft 365, Exchange Online, PowerShell, Active Directory, networking, and other IT systems.
