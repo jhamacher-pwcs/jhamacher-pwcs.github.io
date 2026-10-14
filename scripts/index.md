@@ -4,8 +4,6 @@ title: Scripts
 permalink: /scripts/
 ---
 
-# Scripts
-
 A collection of PowerShell scripts I've created or used while working with Microsoft 365, Exchange Online, Active Directory, and other IT systems.
 
 ## Exchange Online
