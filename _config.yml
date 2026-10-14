@@ -62,7 +62,7 @@ kramdown:
 # Permalinks
 # ------------------------------------------------------------
 
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /posts/:title/
 
 
 # ------------------------------------------------------------
