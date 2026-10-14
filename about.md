@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About This Site
-
 This site is my personal collection of technical notes, troubleshooting write-ups, scripts, and lessons learned while working in IT.
 
 Most of the content comes from real problems I've encountered while administering systems, researching unexpected behavior, or trying to understand why something works the way it does.
