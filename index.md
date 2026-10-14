@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Technical Notes
+title: Tales from Prod
 ---
 
 Welcome to my technical notes.
